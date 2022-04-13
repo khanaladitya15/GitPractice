@@ -3,7 +3,13 @@ body{
 }
 h1{
     font-size: 28px;
+    text-transform: uppercase;
+    font-weight: light;
+    color: yellow;
 }
 p{
     font-size: 18px;
+     text-transform: capitalize;
+    font-weight: italic;
+    color: blue;
 }
